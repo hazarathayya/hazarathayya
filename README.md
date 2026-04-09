@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hazarathayya" />
+<img align="right" src="https://github-readme-stats-fast.vercel.app/api?username=hazarathayya&show_icons=true" />
 
 Working on LLVM for HPC — loop transforms, vectorization passes, 
 and cost model tuning for AArch64 (Neoverse V2 / SVE2).
